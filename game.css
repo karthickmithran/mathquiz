@@ -1,0 +1,45 @@
+body {
+	background-image: url("bkim.jpg");
+	background-size: 1750px 2000px;
+	background-repeat: no-repeat;
+  }
+
+#bg {
+	position: fixed; 
+	top: 0; 
+	left: 0; 
+	min-width: 100%;
+	min-height: 100%;
+  }
+
+h1{  
+    text-align: center;  
+    color: #09010f;  
+    padding: 20px;  
+
+} 
+
+.login_div1, .login_div2
+	{
+		background: rgb(241, 239, 243);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name_input , #player2_name_input
+{
+	display: inline-block;
+	margin-left: 0px;
+	background-color: rgb(203, 241, 32);
+}
+
+#output{
+	background:white;
+	border-radius: 10px;
+	border-top:10px solid #AA4465;
+	padding: 10px;
+	float: none;
+	text-align: left;
+}
