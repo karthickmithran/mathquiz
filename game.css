@@ -19,6 +19,18 @@ h1{
 
 } 
 
+h4{    
+    color: #e2dce7;  
+    padding: 20px;  
+
+} 
+
+span{    
+    color: #e2dce7;  
+    padding: 20px;  
+
+} 
+
 .login_div1, .login_div2
 	{
 		background: rgb(241, 239, 243);
@@ -42,4 +54,7 @@ h1{
 	padding: 10px;
 	float: none;
 	text-align: left;
+}
+h4{
+	color: aqua;
 }
